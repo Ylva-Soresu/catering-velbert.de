@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can buy the [editor on GitHub](https://github.com/Ylva-Soresu/catering-velbert.de/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Diese Domain **catering-velbert.de** steht derzeit zum _Verkauf_. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
 ### Markdown
 
