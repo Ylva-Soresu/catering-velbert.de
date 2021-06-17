@@ -4,14 +4,21 @@ Diese Domain **catering-velbert.de** steht derzeit zum _Verkauf_.
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
+### Inofs zur Domain  
+
+**Ranking**: ... 
+
+**Für was eignet sich unsere Domain**:
+
 ### Kontakt
 
  E-mail: [test@email.com](https://guides.github.com/features/mastering-markdown/)
  
  Telefon: 0128278212
  
+ 
 ```markdown
-Syntax highlighted code block
+Das kann man damit machen
 
 # Header 1
 ## Header 2
