@@ -6,8 +6,8 @@ Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
 ### Kontakt
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ E-mail: [test@email.com](https://guides.github.com/features/mastering-markdown/).
+ Telefon: 898980909809
 ```markdown
 Syntax highlighted code block
 
