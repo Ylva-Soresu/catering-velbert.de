@@ -1,10 +1,10 @@
-## Domain zu Verkaufen
+### Domain zu Verkaufen
 
 Diese Domain **catering-velbert.de** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
-### Inofs zur Domain  
+## Inofs zur Domain  
 
 **Alle Infos zur Domain hier**
 
@@ -20,7 +20,7 @@ Wenn sie Interesse haben melden sie sich doch mal bei uns.
  
  Telefon: 0128278212
  
- ## Bild
+## Bild
  
  ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwO_Z6gK-VtVOdQ2pB8OECoryKI8e4QC0tQ&usqp=CAU)
  
