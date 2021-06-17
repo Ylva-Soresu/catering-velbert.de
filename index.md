@@ -25,20 +25,10 @@ Wenn sie Interesse haben melden sie sich doch mal bei uns.
  ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwO_Z6gK-VtVOdQ2pB8OECoryKI8e4QC0tQ&usqp=CAU)
  
 ```markdown
-Das kann man damit machenn
 
-# Header 1
-## Header 2
-### Header 3
+Die Syntax wird markdown also übernommen 
+4/&$%&§&(§%)&%)[}[]²³{]}{^^
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
- ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwO_Z6gK-VtVOdQ2pB8OECoryKI8e4QC0tQ&usqp=CAU)
 ```
 
