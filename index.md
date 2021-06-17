@@ -4,7 +4,7 @@ Diese Domain **catering-velbert.de** steht derzeit zum _Verkauf_.
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
-### Markdown
+### Kontakt
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
