@@ -26,7 +26,7 @@ Wenn sie Interesse haben melden sie sich doch mal bei uns.
  
 ```markdown
 
-Die Syntax wird markdown also übernommen 
+Die Syntax wird mit markdown also übernommen und es gibt spezielle Syntax für Html tags
 4/&$%&§&(§%)&%)[}[]²³{]}{^^
 
 
