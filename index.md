@@ -36,7 +36,7 @@ Das kann man damit machen
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+ ![Image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwO_Z6gK-VtVOdQ2pB8OECoryKI8e4QC0tQ&usqp=CAU)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
