@@ -6,11 +6,13 @@ Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
 ### Inofs zur Domain  
 
+**Alle Infos zur Domain hier**
+
 **Ranking**: 
 
 **Für was eignet sich unsere Domain**:
 
-**Alle Infos zur Domain**
+
 
 ### Kontakt
 
