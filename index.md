@@ -1,6 +1,6 @@
 # Domain zu Verkaufen
 
-Diese Domain **{{GITHUB_REPOSITORY}}** steht derzeit zum _Verkauf_. 
+Diese Domain **{{page_title}}** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
