@@ -1,7 +1,7 @@
 
 
 # Domain zu Verkaufen
-
+works
 Diese Domainn **env.GIT_REPO_NAME = env.GIT_URL.replaceFirst(/^.*\/([^\/]+?).git$/, '$1')** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
