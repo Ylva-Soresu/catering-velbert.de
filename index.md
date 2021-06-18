@@ -1,8 +1,10 @@
-
+---
+title: catering-velbert.de
+---
 
 # Domain zu Verkaufen
 
-Diese Domain **env.GIT_REPO_NAME = env.GIT_URL.replaceFirst(/^.*\/([^\/]+?).git$/, '$1')** steht derzeit zum _Verkauf_. 
+Diese Domain **{{page.title}}** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
