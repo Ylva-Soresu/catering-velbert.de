@@ -1,6 +1,6 @@
 # Domain zu Verkaufen
 
-Diese Domain **catering-velbert.de** steht derzeit zum _Verkauf_. 
+Diese Domain **{{page.name}}** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
