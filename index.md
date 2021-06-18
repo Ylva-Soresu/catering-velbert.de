@@ -4,7 +4,7 @@ title: catering-velbert.de
 
 # Domain zu Verkaufen
 
-Diese Domainn **${{ secrets.SECRET_NAME }}** steht derzeit zum _Verkauf_. 
+Diese Domainn **{{page.title }}** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
