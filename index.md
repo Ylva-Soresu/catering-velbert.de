@@ -1,6 +1,10 @@
-# catering-velbert.de
+---
+title: catering-velbert.de
+---
 
-Diese Domainn **{{page.name}}** steht derzeit zum _Verkauf_. 
+# Domain zu Verkaufen
+
+Diese Domainn **{{page.title}}** steht derzeit zum _Verkauf_. 
 
 Wenn sie Interesse haben melden sie sich doch mal bei uns.
 
